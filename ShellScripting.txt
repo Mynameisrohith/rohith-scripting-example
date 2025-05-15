@@ -1,0 +1,64 @@
+ ssh ubuntu@13.51.205.144~
+    2  clear
+    3  ssh ubuntu@31.51.205.144
+    4  ssh ubuntu@31.51.205.144
+    5  ~ssh ubuntu@31.51.205.144
+    6  ssh ubuntu@31.51.205.144
+    7  touch rohith
+    8  ls
+    9  cleat
+   10  clear
+   11  sudo apt update
+   12  ssh ubuntu@13.15.205.144
+   13  ls
+   14  touch rohith
+   15  ls
+   16  free
+   17  free -g
+   18  nproc
+   19  df -h
+   20  top
+   21  pwd
+   22  cd rohith
+   23  ls
+   24  touch rohith
+   25  ls
+   26  vi test
+   27  cat test
+   28  mkdir rohith
+   29  mkdir rohith1
+   30  rm -r rohith1
+   31  ls
+   32  ssh -i C:\Users\ROHITH.D\Downloads\test1.pem ubuntu@13.51.205.144
+   33  touch first-shell-script.sh
+   34  ls -ltr
+   35  man ls
+   36  man ls
+   37  man touch
+   38  ls
+   39  sh first-shell-script
+   40  sh first-shell-script.sh
+   41  vim first-shell-script.sh
+   42  sh first-shell-script.sh
+   43  vim first-shell-script.sh
+   44  sh first-shell-script.sh
+   45  vim first-shell-script.sh
+   46  ls
+   47  sh first-shell-script.sh
+   48  sh first-shell-script
+   49  sh second-shell-script
+   50  sh second-shell-script.sh
+   51  vim second-shell-script.sh
+   52  sh second-shell-script.sh
+   53  rm second-shell-script.sh
+   54  rm first-shell-script.sh
+   55  ls
+   56  touch second-shell-script
+   57  vim second-shell-script
+   58  sh second-shell-script
+   59  chmod 444 first-shell-script
+   60  sh first-shell-script
+   61  vim second-shell-script
+   62  vim first-shell-script
+   63  ./
+   64  history
